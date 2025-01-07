@@ -46,7 +46,7 @@ JavaScript: For adding interactivity and enhancing user experience.
 
 # Check out the page
 
-Click [] here to visit my website.
+Click [https://jpriya28.github.io/Nostra/] here to visit my website.
 
 # Contributing
 If you'd like to contribute (or) suggest improvements, please feel free to open an issue or create pull request.
